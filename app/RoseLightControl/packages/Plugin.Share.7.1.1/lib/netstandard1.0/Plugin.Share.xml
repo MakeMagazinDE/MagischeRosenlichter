@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Share</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Share.CrossShare">
+            <summary>
+            Cross platform Share implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.CrossShare.IsSupported">
+            <summary>
+            Gets if the plugin is supported on the current platform.
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.CrossShare.Current">
+            <summary>
+            Current plugin implementation to use
+            </summary>
+        </member>
+    </members>
+</doc>
