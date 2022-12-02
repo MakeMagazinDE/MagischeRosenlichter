@@ -1,0 +1,18 @@
+{
+	"folders": [
+      {
+         "name": "RoseLightFirmware",
+         "path": "RoseLightFirmware"
+      }
+   ],
+   "settings": {
+      "files.associations": {
+         "array": "cpp",
+         "deque": "cpp",
+         "vector": "cpp",
+         "*.tcc": "cpp",
+         "istream": "cpp",
+         "streambuf": "cpp"
+      }
+   }
+}
