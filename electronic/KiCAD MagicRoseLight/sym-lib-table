@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name esp32_nodemcu)(type Legacy)(uri "//172.16.1.195/sftp/Projekte/P21007 Rosenlicht/Hardware/Schaltung/Components/esp32_nodemcu.lib")(options "")(descr ""))
+  (lib (name led_ring_type_1)(type Legacy)(uri "//172.16.1.195/sftp/Projekte/P21007 Rosenlicht/Hardware/Schaltung/Components/led_ring_type_1.lib")(options "")(descr ""))
+  (lib (name micmodul_max9814)(type Legacy)(uri "//172.16.1.195/sftp/Projekte/P21007 Rosenlicht/Hardware/Schaltung/Components/micmodul_max9814.lib")(options "")(descr ""))
+)
