@@ -8,7 +8,7 @@ Maker Media GmbH
 
 ##  mit App-Steuerung
 
-**Planen Sie eine Märchenhochzeit? Oder hätten Sie gern ein schönes  Stimmungslicht zum Abschalten im Alltagsstress? Oder lieben Sie  außergewöhnliche Dekoration? Dann illuminieren Sie diese dekorierten  Glasglocken in allen Farben des Regenbogens bequem mit einem Fingertipp  vom Smartphone aus.   **
+**Planen Sie eine Märchenhochzeit? Oder hätten Sie gern ein schönes  Stimmungslicht zum Abschalten im Alltagsstress? Oder lieben Sie  außergewöhnliche Dekoration? Dann illuminieren Sie diese dekorierten  Glasglocken in allen Farben des Regenbogens bequem mit einem Fingertipp  vom Smartphone aus.**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.jpg)
 
