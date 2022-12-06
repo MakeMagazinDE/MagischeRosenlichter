@@ -16,6 +16,6 @@ Hier gibt es die Schaltpläne und KiCAD-Dateien für die Elektronik, den Sourcec
 
 Die fertige Android-App **[Magic Rose Light Control](https://play.google.com/store/apps/details?id=com.tabo.roselightcontrol)** ist kostenlos im Google Play Store zu bekommen.
 
-Ein ergänzender **[Online-Artikel](https://heise.de/-7336257)** gibt Tipps zum Fräsen der Sockelbretter und erklärt die Konfiguration der Steuer-App im Detail. Und ein Video gibt es dort auch noch dazu. **Dieser Artikel samt Video steht voraussichtlich ab dem 7.12.22 zur Verfügung!**
+Ein ergänzender **[Online-Artikel](https://heise.de/-7336257)** gibt Tipps zum Fräsen der Sockelbretter und erklärt die Konfiguration der Steuer-App im Detail. Und ein Video gibt es dort auch noch dazu.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/22 ab Seite 76]([https://www.heise.de/select/make/2022/6/2221911250660040729)**.
